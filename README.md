@@ -82,5 +82,7 @@ Based on the findings, I recommended that Area 51:
    pip install -r requirements.txt
 
 3. Launch Jupyter notebook:
-  ```bash
-  jupyter notebook area51_analysis.ipynb
+   ```bash
+   jupyter notebook area51_analysis.ipynb
+
+4. Run all cells to reproduce analysis
