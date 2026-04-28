@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PNGs and images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# SPSS binary files
+*.spv
+*.sav
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
